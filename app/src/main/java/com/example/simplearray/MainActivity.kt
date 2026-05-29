@@ -44,7 +44,6 @@ class MainActivity : AppCompatActivity() {
             val n3 = txtNum3.text.toString().toInt()
             val n4 = txtNum4.text.toString().toInt()
             val n5 = txtNum5.text.toString().toInt()
-            
 
             val numbers = intArrayOf(n1, n2, n3, n4 , n5)
 
